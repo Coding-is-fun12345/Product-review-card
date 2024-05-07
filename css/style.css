@@ -1,0 +1,53 @@
+body{
+  background-color: rgb(255, 230, 234);
+}
+.image {
+  width: 400px;
+  position: absolute;
+  margin: 0;
+  border-top-left-radius: 5%;
+  border-bottom-left-radius: 5%;
+  margin-left: 10%;
+}
+
+.currency{
+  color: #2d862d;
+}
+h1{
+  font-family: "Fraunces", serif;
+}
+p{
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+.container {
+  font-size: 18px;
+  letter-spacing: 0px;
+  margin-right: 25%;
+  background-color: white;
+  padding: 20px;
+  margin-left: 25%;
+}
+
+.text-alignment{
+  text-align: right;
+}
+
+.mark{
+  text-decoration: line-through;
+}
+
+.btn {
+  display: inline-block;
+  background: #2d862d;
+  color: rgb(255, 255, 255);
+  padding: 0.4rem 1.3rem;
+  font-size: 15px;
+  text-align: center;
+  border: none;
+  cursor: pointer;
+  margin-right: 0.5rem;
+  outline: none;
+  box-shadow: 0 1px 0 rgba(0, 0, 0, 0.45rem);
+  border-radius: 5px;
+}
